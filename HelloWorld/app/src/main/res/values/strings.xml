@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Top 25</string>
+    <string name="btn_main_submit">Fetch Top 10 Albums</string>
+    <string name="recycler_album_default">An Album</string>
+    <string name="recycler_artist_default">An Artist</string>
+    <string name="recycler_rank_default">00</string>
+</resources>
